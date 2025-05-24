@@ -1,6 +1,4 @@
-Here’s a professional `README.md` for your Django Notes Application backend:
 
-```markdown
 # Notes Application - Django Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -24,8 +22,8 @@ A RESTful API backend for a Notes application built with Django and Django REST 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notes-app-backend.git
-cd notes-app-backend
+git clone https://github.com/BURHANUDDIN51-PYTHON/notesBackend.git
+cd notesBackend
 ```
 
 2. Create and activate virtual environment:
