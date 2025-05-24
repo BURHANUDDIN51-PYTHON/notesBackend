@@ -22,8 +22,8 @@ A RESTful API backend for a Notes application built with Django and Django REST 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notes-app-backend.git
-cd notes-app-backend
+git clone https://github.com/BURHANUDDIN51-PYTHON/notesBackend.git
+cd notesBackend
 ```
 
 2. Create and activate virtual environment:
