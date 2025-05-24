@@ -1,6 +1,4 @@
-Here’s a professional `README.md` for your Django Notes Application backend:
 
-```markdown
 # Notes Application - Django Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
